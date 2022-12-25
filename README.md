@@ -7,11 +7,11 @@ Projects completed under the supervision of Dr William Hendrix. For the course A
 - Dynamic Programming
 
 # Project Desciption
-## Project 1
+## Project 1 (Time Complexity and Sorting)
 - Compare the different time complexities between different sorting algorithms
 - Analyse how performance varies based on sorted, constant and randomly sorted array inputs
 - Algorithms Compared: Selection sort, insertion sort, merge sort and quick sort
 
 
-## Project 2
+## Project 2 (Dynamic Programming)
 - Manipulate 2D vector to find the easist way to close the gaps between two sets of teeth (top and bottom)
